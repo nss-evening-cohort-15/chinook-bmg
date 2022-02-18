@@ -2,6 +2,8 @@
 -- Customer name, Country and Sale Agent name for 
 -- all invoices and customers.
 
+-- ANSWER BELOW NOT COMPLETELY CORRECT BUT CLOSE
+
 
 SELECT * FROM Invoice;
 
